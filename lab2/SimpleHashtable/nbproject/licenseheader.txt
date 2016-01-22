@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}2. laboratorijska vježba iz Objektno orijentiranog programiranja
+<#if licenseLast??>
+${licenseLast}
+</#if>

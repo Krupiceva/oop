@@ -1,0 +1,7 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}2. laboratorijska vjezba iz OOP-a
+<#if licenseLast??>
+${licenseLast}
+</#if>
